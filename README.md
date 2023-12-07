@@ -1,2 +1,2 @@
 # Python
-py projects. This ranges from games to algorithms.
+py projects. This ranges from games,algorithms and data related projects.
