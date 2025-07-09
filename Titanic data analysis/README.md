@@ -49,8 +49,7 @@ This repository contains my Titanic data analysis project using the classic Tita
   Indicated that **first-class passengers had the highest survival rate**
 
 - **Correlation Heatmap**  
-  Showed:
-  - Older passengers paid higher fares
+  Older passengers paid higher fares
 
 ### Feature Engineering
 
