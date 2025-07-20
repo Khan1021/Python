@@ -1,10 +1,11 @@
 class Category:
-  withdraws = 0
+  
   name = ''
 
   def __init__(self, name):
     self.name = name
-    self.ledger = list()
+    self.ledger = []
+    self.withdraws = 0
 
   def __repr__(self):
     display_menu = self.name.center(30, '*') + '\n'
