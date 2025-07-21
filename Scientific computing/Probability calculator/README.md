@@ -12,14 +12,16 @@ This project simulates drawing coloured balls from a har and uses that to estima
 
 ### Example Usage
   
-  `hat = Hat(red=3, blue=2)
+```
+python hat = Hat(red=3, blue=2)
 probability = experiment(
     hat=hat,
     expected_balls={"red": 2},
     num_balls_drawn=3,
     num_experiments=1000
 )
-print("Probability:", probability)`
+print("Probability:", probability)
+```
 
 ### Files
 - `prob_calculator.py`: core logic
