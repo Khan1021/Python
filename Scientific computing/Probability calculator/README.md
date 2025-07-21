@@ -41,7 +41,7 @@ print("Probability:", probability)
 This will execute the unit tests
 
 ## Authors
-Zaynab Khan
+Zaynab Khan  
 zaynabkhan982@gmail.com 
 
 ## License
