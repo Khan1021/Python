@@ -8,6 +8,8 @@ duration = input("Enter the duration (e.g. 2:12)")
 day = input("Enter the day (optional): ")
 
 
+start = start.upper().replace("AM", " AM").replace("PM"," PM")
+
 # Handle optional day input cleanly
 if day.strip() == "":
     result = add_time(start, duration)
